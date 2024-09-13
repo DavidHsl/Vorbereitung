@@ -84,7 +84,8 @@ Für IPv4 ähnliche Local Adress aufbau
 Präfix: *ff00::/8*
 Senden eines Packets an mehrer definierte Endgeräte
 
-
+**Site-Local**
+Präfix *fec0::/10*
 ### Kürzen
 - 75f5:0826:018b:31d9:1575:cd7a:be86:76aa
 
