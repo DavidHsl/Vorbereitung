@@ -69,7 +69,20 @@ Die Länge einer IPv6 sind 128b mit 16b blöcken (4 Charakter), trennung mit :
 ### Präfix
 Standard ist das Präfix 64b lang.
 #### Standard
-Immer Internet Präfix: *2001:0db8*
+**Internet**
+Präfix: *2001:0db8*
+
+**Link-Local**
+Präfix: *fe80::/10*
+Präfix wenn nicht ins Internet geroutet wird (Local)
+
+**Unique-Local**
+Präfix: *fc00::/7*
+Für IPv4 ähnliche Local Adress aufbau
+
+**Mulitcast**
+Präfix: *ff00::/8*
+Senden eines Packets an mehrer definierte Endgeräte
 
 
 ### Kürzen
