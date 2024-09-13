@@ -40,6 +40,7 @@ tags:
 - CSMA CD/CA
 - Netz Topologie
 - Verschlüsselung
+- Ergonomie
 
 
 ## Prio
