@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"3d41e0d178f6bdbf","x":-324,"y":-28,"width":250,"height":60,"type":"text","text":"Applikationen"},
-		{"id":"62b6c3642bf4fd27","x":-324,"y":-140,"width":250,"height":60,"type":"text","text":"Kernal"},
-		{"id":"90b190b68dfd98c3","x":-324,"y":-260,"width":250,"height":60,"type":"text","text":"Hardware"}
+		{"id":"13e8b43f2caa2bfb","x":-334,"y":-322,"width":250,"height":60,"type":"text","text":"Hardware"},
+		{"id":"864499f3babf78ba","type":"text","text":"Kernal","x":-334,"y":-220,"width":250,"height":60},
+		{"id":"0bb39198c2a27cd3","x":-334,"y":-120,"width":250,"height":60,"type":"text","text":"Software"}
 	],
 	"edges":[
-		{"id":"bf95ff207e6dc487","fromNode":"90b190b68dfd98c3","fromSide":"bottom","toNode":"62b6c3642bf4fd27","toSide":"top"},
-		{"id":"0f16d292b90dac2a","fromNode":"62b6c3642bf4fd27","fromSide":"bottom","toNode":"3d41e0d178f6bdbf","toSide":"top"}
+		{"id":"acf584d859ad6d82","fromNode":"13e8b43f2caa2bfb","fromSide":"bottom","toNode":"864499f3babf78ba","toSide":"top"},
+		{"id":"66e16f580b9ed2dc","fromNode":"864499f3babf78ba","fromSide":"bottom","toNode":"0bb39198c2a27cd3","toSide":"top"}
 	]
 }

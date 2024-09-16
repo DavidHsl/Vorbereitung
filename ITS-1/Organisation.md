@@ -4,8 +4,8 @@ tags:
   - its-1
   - orga
 ---
-# Themen
-1. Plattfomen (OS + Virtualisierung + Cloud-Computing)
+# Themensammlung
+1. Plattformen (OS + Virtualisierung + Cloud-Computing)
 	- Kernal
 	- GUI / CLI
 	- Usermode
