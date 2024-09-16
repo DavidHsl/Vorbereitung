@@ -11,14 +11,11 @@
             "id": "6afa785d4bbd7f88",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ITS-1/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "ITS-1/Organisation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITS-1/Untitled.canvas",
+                "file": "ITS-1/Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITS-1/Untitled.canvas",
+                "file": "ITS-1/Organisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITS-1/Untitled.canvas"
+                "file": "ITS-1/Organisation.md"
               }
             }
           },
@@ -158,12 +155,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a4af1191cef5346",
+  "active": "6afa785d4bbd7f88",
   "lastOpenFiles": [
+    "ITS-1/OS-Layer.canvas",
     "ITS-1/Betriebsysteme.md",
-    "ITS-1/Untitled.canvas",
-    "ITS-1/OS.png",
     "ITS-1/Organisation.md",
+    "ITS-1/OS.png",
     "ITS-2/DSGVO.md",
     "ITS-1",
     "dsgvo.pdf",

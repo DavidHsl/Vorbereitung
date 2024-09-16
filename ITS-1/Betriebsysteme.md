@@ -48,3 +48,5 @@ Diese schichten sind die Hardware schicht, worin sich die Physische hardware dei
 Danach gibts die Kernal schicht worin sich die Treiber und Systemkritsche Software stücke befinden wie zum Beispiel Dateisystem
 
 Nun kommen wir zur Userspace (Anwendungsschicht) worin sich alle Benutzerbezogenen Programme sich befinden.
+
+![[OS-Layer.canvas|Untitled]]
