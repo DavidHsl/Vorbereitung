@@ -45,6 +45,6 @@ Daten werden getrennt und bezogen mit nicht Identifizierbaren nummern oder kürz
 Person zuständig das diese Regeln eingehalten werden.
 
 *Empfänger*
-Personen die dies daten bekommen (bsp.: Käufer der Daten.)
+Personen die dies Daten bekommen (bsp.: Käufer der Daten.)
 
 **4)**
