@@ -22,4 +22,14 @@ Die DSGVO ist Raum bezogen von der Person wo es aufgenommen wird und/oder wer di
 **Beschreibung:** Daten sollen nur von Berechtigten Personen gesehen werden.
 
 ## Aufgabe
-**1**
+**1)**
+Artikel 1 und 2 beschreiben dass alle natürliche personen in der gesamten EU. Um die Rechte der betroffen zu Schützen. Ausnahme gelten.
+
+**2)**
+Alle natürliche Personen innerhalb der EU.
+
+**3)** 
+*Personenbezogen Daten:*
+Alle Information die eine natürliche Person zuordnen kann.
+
+**4)**
