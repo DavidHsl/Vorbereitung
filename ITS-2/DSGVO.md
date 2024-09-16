@@ -32,4 +32,19 @@ Alle natürliche Personen innerhalb der EU.
 *Personenbezogen Daten:*
 Alle Information die eine natürliche Person zuordnen kann.
 
+*Verabeitung:*
+Alle Personenbezogenen Daten die Automatisch oder anders verwendet.
+
+*Profiling:*
+Personbezogene Daten Verarbeit um daten über die Person zu erschlissen.
+
+*Pseudonymisierung:*
+Daten werden getrennt und bezogen mit nicht Identifizierbaren nummern oder kürzle.
+
+*Verantwortlicher:*
+Person zuständig das diese Regeln eingehalten werden.
+
+*Empfänger*
+Personen die dies daten bekommen (bsp.: Käufer der Daten.)
+
 **4)**
