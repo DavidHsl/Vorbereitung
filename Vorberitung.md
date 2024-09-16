@@ -41,6 +41,7 @@ tags:
 - Netz Topologie
 - Verschlüsselung
 - Ergonomie
+- Rechnen mit Datengrößen z.B. MB in MiB
 
 
 ## Prio
