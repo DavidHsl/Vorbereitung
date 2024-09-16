@@ -8,13 +8,17 @@ tags:
 Unter einem Betriebssystem versteht man eine Computer mit dem Kernal und allen wichtigen Systemkomponenten.
 # Kernal
 
-## Prozessorverwaltung
+## Resourcenverwalltung
+Resourcenverwaltung ist zuständig die richten Resourcen and die richte programme zu geben, und verhiindern das Applikation zuviel oder die selben Resourcen wie eine ander, zu beziehen.
 
-## Speicherverwaltung
+Die Resourcenverwaltung beihaltet:
+- **Prozessorverwaltung**
+  Diese kümmert sich das eine Applikation ein oder meher Kern/Threads kriegt für ein gewiese zeit
+- **Speicherverwaltung**
+  Kümmert sich das jeded Applikation genügend RAM kriegt und sie sicht nicht gegenseit das RAM klauen und überschreiben.
 
-## Dateiverwaltung
-
-## Geräteverwaltung
+### Resourcenkonflikt
+Der Resourcenkonflikt ist der Fall wenn zwei Applikation die selben Resourcen haben will und daher sich entgegenstoßen.
 
 # Schichten
 ![[OS.png]]
@@ -37,7 +41,7 @@ feste Dauer. Über eine variable Zeitzuteilung
 können Prozesse priorisiert werden.
 
 ## Mehrprozessorbetrieb
-Wenn das OS mehrere CPUs verwendet.
+Dieser beschreibt die fähigkeit mehere Prozossorenkerne bzw. Prozzessorren
 
 # Übungen
 
@@ -49,4 +53,15 @@ Danach gibts die Kernal schicht worin sich die Treiber und Systemkritsche Softwa
 
 Nun kommen wir zur Userspace (Anwendungsschicht) worin sich alle Benutzerbezogenen Programme sich befinden.
 
-![[OS-Layer.canvas|Untitled]]
+![[OS-Layer.canvas|OS Layers]]
+
+## 2
+
+## 3
+API - Aplication programming Interface
+Eine Schnittstelle um mit komponenten des OS zu agieren.
+## 4
+Der Resourcenverwalter tut zum Beispiel verwalten das das Ram schwere Videospiel genügend ram kriegt und verhindert das der Web Browser nich zu viel nimmt um das Spiel zu limitieren
+
+##  5
+Der Reourcenkonflikt ist wen zwei Programme auf die Selbe Resource Zugreifen will
