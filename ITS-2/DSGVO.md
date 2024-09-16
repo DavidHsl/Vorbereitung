@@ -4,8 +4,9 @@ tags:
   - Personenbezogen
   - Presönliche
 ---
-# DSGVO
-Die DSGVO ist Raum bezogen von der Person wo es aufgenommen wird.
+# DSGVO (eng.: GPDR)
+**Bedeutung:** Datenschutzgrundverordnung
+Die DSGVO ist Raum bezogen von der Person wo es aufgenommen wird und/oder wer die Daten aufnimmt
 
 ## Personenbezogene Daten
 **Beschreibung:** Daten die eine Natürliche Personen bezieht.
