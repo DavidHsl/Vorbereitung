@@ -20,3 +20,6 @@ Die DSGVO ist Raum bezogen von der Person wo es aufgenommen wird und/oder wer di
 
 ## Datensicherheit
 **Beschreibung:** Daten sollen nur von Berechtigten Personen gesehen werden.
+
+## Aufgabe
+**1**
