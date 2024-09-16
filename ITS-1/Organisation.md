@@ -5,11 +5,18 @@ tags:
   - orga
 ---
 # Themen
-1. Betriebsystemn (OS)
-	-  Aufgaben des Kernels
-	- Multitasking
-	- Threading
-	- Treiber
-	- API
-	- Linux
-		1. Commandline
+1. Plattfomen (OS + Virtualisierung + Cloud-Computing)
+	- Kernal
+	- GUI / CLI
+	- Usermode
+1. Serverdienste und Speichersysteme
+	- RAID
+	- NAS
+2. Automatisierung
+	- Skripting
+	- Admin Aufgaben
+3. Netzwerktechnik
+	- Switching
+	- Routing
+	- Firewall
+	- IPv6
