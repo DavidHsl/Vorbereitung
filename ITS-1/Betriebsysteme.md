@@ -18,7 +18,7 @@ Die Resourcenverwaltung beihaltet:
   Kümmert sich das jeded Applikation genügend RAM kriegt und sie sicht nicht gegenseit das RAM klauen und überschreiben.
 
 ### Resourcenkonflikt
-Der Resourcenkonflikt ist der Fall wenn zwei Applikation die selben Resourcen haben will und daher sich entgegenstoßen.
+Der Resourcenkonflikt ist der Fall wenn zwei Applikation die selben Ressourcen haben will und daher sich entgegenstoßen.
 
 # Schichten
 ![[OS.png]]
