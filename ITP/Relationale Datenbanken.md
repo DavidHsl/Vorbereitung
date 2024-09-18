@@ -1,7 +1,7 @@
 # Entity-Relationship-Diagrams (ERD)
 ## Zeichen der ER Diagramme
 
-![[ERD-Index]]
+![[ERD-Index.excalidraw]]
 Eine Tabelle hat mehrere Entitäten, diese sind Datenwerte wie z.B Name oder Adresse.
 Zwischen mehren Tabellen kann ein Beziehung (Eng.: Relationship) existieren die in zwei Formen verbunden werden kann:
 - 1 zu n 
@@ -13,7 +13,7 @@ Eine *`1` zu `1`* dahingegen beschreibt **ein** Eintrag in der ersten Tabelle au
 
 ![[APV.pdf#page=5]]
 ### Aufgabe 1 (4)
-![[ERD]]
+![[ERD.excalidraw]]
 
 # SQL
 ## Datentypen
