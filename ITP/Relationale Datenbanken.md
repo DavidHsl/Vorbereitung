@@ -62,3 +62,7 @@ JOIN Kunde k on k.KundenNr = w.KundenNr
 WHERE w.Werbung_verschickt < '2021-12-31'
 AND k.PLZ LIKE '8%' 
 ```
+
+### Aufgabe 5 (10)
+- InfluxDB
+- MangoDB
