@@ -24,6 +24,7 @@ Eine *`1` zu `1`* dahingegen beschreibt **ein** Eintrag in der ersten Tabelle au
 | `bool`       | Boolean       | 0,1,true,false                     |
 | `date`       | Datum         | 01.02.2024, 03.03.2002             |
 | `timestamp`  | Ein Zeitpunkt | 01.02.2024 14:31, 03.04.2024 16:21 |
+|              |               |                                    |
 
 ## Aufgaben
 
@@ -39,7 +40,8 @@ Eine *`1` zu `1`* dahingegen beschreibt **ein** Eintrag in der ersten Tabelle au
 ```sql
 SELECT COUNT(*)
 FROM Kunde
-WHERE Ort is 'Augsburg';
+WHERE Ort is 'Augsburg' 
+AND Aktive = true;
 ```
 ### Aufgabe 3 (8)
 ```sql
