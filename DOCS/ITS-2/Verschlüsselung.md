@@ -4,7 +4,7 @@
 - Authentizität
 
 # Asymmetrische Verschlüsselung
-In der Asymmetrischen Verschlüsselung besteht aus zwei Kryptografischen Schlüssel. Einen Private Key und ein Public Key. Funktonal sind die Schlüssel Identisch
+In der Asymmetrischen Verschlüsselung besteht aus zwei Kryptografischen Schlüssel. Einen Private Key und ein Public Key. Funktional sind die Schlüssel Identisch.
 
 
 
