@@ -22,24 +22,26 @@ MAC --> erg(Mac erschaffen)
 ```mermaid
 sequenceDiagram
 Teilnehmer 1 -> Teilnehmer 2: Tauschen Public Keys aus
-Teilnehmer 1 ->> Teilnehmer 2: Verschlüssele Nachricht mit Public Key vom T2 und hänge MAC dran
+Teilnehmer 1 ->> Teilnehmer 2: Verschlüssele Nachricht mit Pub Key von T2 und hänge MAC dran
 ```
-
-
-
-
-
-**Anderer Name:** Public-Key-Kryptosystem
-
-Diese Kryptographische Verschlüsselung Methode funktioniert, indem zwei Schlüssel zu Verfügung stehen. Eine Öffentlicher (Public Key) und Privater (Private Key). Der Public Key, wie der Name schon sagt, ist öffentlich zu Verfügung. Dieser wird benötigt um dir (Hälter des Private Keys) nachrichten zu senden.
-
-Das Funktioniert indem jemand die Nachricht, mit dein Public Key, verschlüsselt. Diese Nachricht kann **nicht** wieder von diesem Entschlüsselt werden. Der einzige Schlüssel der diese Nachricht wieder entschlüsseln kann ist der Hälter vom Private Key.
-
-![Asymmetische](../assets/AVerschlüsselung.png)
+## Probleme
+- Sehr Resourcen Intensive
 ## Veschlüsselungs Algorithmen
 - RSA
 - ECC
 
-## Beispiele mit SSH
-![SSH Verschlüsselung](../assets/secure-shell-connection.png)
 # Symmetrische Verschlüsselung
+Die Symmetrische Verschlüsselung ist hingegen weitaus einfacher. Es gibt ein Schlüssel der Ver- und Entschlüsselt. Der nachteil davon ist man muss iregenwie den Schlüssel dem Teilnehmer sicher übergeben
+
+# Hybride Verschlüsselung
+In der Hybriden verwenden wir beide sorten der Veschlüsselung. Diese ist am häufigsten verwendete form der Verschlüsselung, da sie leicht, sicher und Resourcen Effizent ist in der Kommunikation.
+
+## Ablauf
+
+```mermaid
+sequenceDiagram
+T 1 -> T 2: Austausch der Public Keys
+T 1 -> T 2: Genierer Symmetrischen Schlüssel
+T 1 ->> T 2: Verschlüsselt mit dem Pub Key von T2 einen Sym Schlüssel
+T 2 ->> T 1: Sende Nachricht mit Verschlüsselt mit Sym Schlüssel
+```
