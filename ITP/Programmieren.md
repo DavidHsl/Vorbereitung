@@ -4,7 +4,7 @@ tags:
   - BS
   - Programmieren
 ---
-# Java
+# Java (Programmier Code)
 ## 3 Arten der Schleifen
 ### while-schleife
 ```java
@@ -73,4 +73,3 @@ if (sumstd > cpulimit) {
   MessageBox.Show(message, title);
 }
 ```
-
