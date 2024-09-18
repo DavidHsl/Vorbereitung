@@ -15,7 +15,6 @@ Eine *`1` zu `1`* dahingegen beschreibt **ein** Eintrag in der ersten Tabelle au
 ### Aufgabe 1 (4)
 ![[ERD]]
 
-
 # SQL
 ## Datentypen
 | Name         | Bedeutung     | Beispiel                           |
@@ -36,3 +35,33 @@ Eine *`1` zu `1`* dahingegen beschreibt **ein** Eintrag in der ersten Tabelle au
 `Erfasst am` -> `Date`
 `IBAN` -> `varchar(50)`
 
+### Aufgabe 2 (7)
+```sql
+SELECT COUNT(*)
+FROM Kunde
+WHERE Ort is 'Augsburg';
+```
+### Aufgabe 3 (8)
+```sql
+CREATE TABLE Werbeaktion(
+  WerbungsID int,
+  Werbepartner varchar(50),
+  Werbung_verschickt bool,
+  KundenNr int,
+
+  PRIMARY KEY (WerbungsID),
+  FOREIGN KEY (KundenNr) REFERENCES Kunde(KundenNr)
+)
+```
+
+### Aufgabe 4 (9)
+```sql
+SELECT COUNT(*)
+FROM Werbeaktion w
+JOIN w
+
+SELECT COUNT(*)
+FROM Kunde k
+JOIN Werbeaktion w on k.KundenNr = w.KundenNr
+WHERE w.
+```
