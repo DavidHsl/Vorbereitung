@@ -28,7 +28,7 @@ Eine *`1` zu `1`* dahingegen beschreibt **ein** Eintrag in der ersten Tabelle au
 
 ## Aufgaben
 
-### Aufgabe 2 (5)
+### Aufgabe 1 (5)
 `KundenNr` -> `int`
 `Kunde_Aktiv` -> `bool`
 `PLZ` -> `varchar(5)`
