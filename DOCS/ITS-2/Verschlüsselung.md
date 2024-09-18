@@ -1,9 +1,10 @@
-# Die 3 Grundsätze der IT-Sicherheit
+# Verschlüsselung
+## Die 3 Grundsätze der IT-Sicherheit
 - Vertraulichkeit
 - Integrität
 - Authentizität
 
-# Asymmetrische Verschlüsselung
+## Asymmetrische Verschlüsselung
 In der Asymmetrischen Verschlüsselung besteht aus zwei Kryptographischen Schlüssel. Einen Private Key und ein Public Key. Funktional sind die Schlüssel Identisch. Der Unterschied ist das wir sie anders behandeln in der Kommunikation.
 
 Das Verfahren eine Nachricht verschlüsselt zu senden, wäre den Empfänger anfragen mir seinen Public Key zu senden.
@@ -24,19 +25,19 @@ sequenceDiagram
 Teilnehmer 1 -> Teilnehmer 2: Tauschen Public Keys aus
 Teilnehmer 1 ->> Teilnehmer 2: Verschlüssele Nachricht mit Pub Key von T2 und hänge MAC dran
 ```
-## Probleme
+### Probleme
 - Sehr Resourcen Intensive
-## Veschlüsselungs Algorithmen
+### Veschlüsselungs Algorithmen
 - RSA
 - ECC
 
-# Symmetrische Verschlüsselung
+## Symmetrische Verschlüsselung
 Die Symmetrische Verschlüsselung ist hingegen weitaus einfacher. Es gibt ein Schlüssel der Ver- und Entschlüsselt. Der nachteil davon ist man muss iregenwie den Schlüssel dem Teilnehmer sicher übergeben
 
-# Hybride Verschlüsselung
+## Hybride Verschlüsselung
 In der Hybriden verwenden wir beide sorten der Veschlüsselung. Diese ist am häufigsten verwendete form der Verschlüsselung, da sie leicht, sicher und Resourcen Effizent ist in der Kommunikation.
 
-## Ablauf
+### Ablauf
 
 ```mermaid
 sequenceDiagram
