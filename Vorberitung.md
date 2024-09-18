@@ -44,6 +44,8 @@ tags:
 - Verschlüsselung
 - Ergonomie
 - [[DSGVO]]
+- Arrays
+- Schleifen
 
 
 ## Prio
