@@ -10,7 +10,6 @@ Das Funktioniert indem jemand die Nachricht, mit dein Public Key, verschlüsselt
 - RSA
 - ECC
 
-## Beispiel mit SSH
+## Beispiele mit SSH
 ![SSH Verschlüsselung](../assets/secure-shell-connection.png)
-
 # Symmetrische Verschlüsselung
