@@ -49,7 +49,7 @@ Diese Art (übersetzt: `tu-solang`-schleife) ist ähnlich wie die [[#while-schle
 
 
 ![[APV.pdf]]
-## Aufgabe 1
+## Aufgabe 2
 ```java
 for (int i = 0; i < 24; i++) {
   sumTemp = sumTemp + usedRam[i];
@@ -61,7 +61,7 @@ if (avgUsedRam >= 75) {
 }
 ```
 
-## Aufgabe 2
+## Aufgabe 3
 ```java
 for (int i = 0; i < 24; i++) {
   if (usedCPU[i] >= 80) {
