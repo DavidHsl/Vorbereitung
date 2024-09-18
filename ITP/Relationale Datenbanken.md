@@ -58,10 +58,7 @@ CREATE TABLE Werbeaktion(
 ```sql
 SELECT COUNT(*)
 FROM Werbeaktion w
-JOIN w
-
-SELECT COUNT(*)
-FROM Kunde k
-JOIN Werbeaktion w on k.KundenNr = w.KundenNr
-WHERE w.
+JOIN Kunde k on k.KundenNr = w.KundenNr
+WHERE w.Werbung_verschickt < '2021-12-31'
+AND k.PLZ LIKE '8%' 
 ```
