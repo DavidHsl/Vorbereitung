@@ -24,6 +24,13 @@ Eine *`1` zu `1`* dahingegen beschreibt **ein** Eintrag in der ersten Tabelle au
 | `bool`       | Boolean       | 0,1,true,false                     |
 | `date`       | Datum         | 01.02.2024, 03.03.2002             |
 | `timestamp`  | Ein Zeitpunkt | 01.02.2024 14:31, 03.04.2024 16:21 |
+## Syntax
+| Syntax | Beschreibung                                                                                                                            |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| SELECT | Mit diesem Schlüsselwort beziehst du Gewisse Daten bei der Datenbank. Mann kann es auch mit einem * ersetzten um alle Felder Zu ziehen. |
+| FROM   | Definiert von welcher Datenbank du die Daten beziehen willst.                                                                           |
+| WHERE  | Bearbeitet eine Bedingung die die Daten die du Beziehst einhalten müssen                                                                |
+
 
 ## Aufgaben
 
