@@ -1,4 +1,13 @@
+# Die 3 Grundsätze der IT-Sicherheit
+- Vertraulichkeit
+- Integrität
+- Authentizität
+
 # Asymmetrische Verschlüsselung
+In der Asymmetrischen Verschlüsselung besteht aus zwei Kryptografischen Schlüssel. Einen Private Key und ein Public Key. Funktonal sind die Schlüssel Identisch
+
+
+
 **Anderer Name:** Public-Key-Kryptosystem
 
 Diese Kryptographische Verschlüsselung Methode funktioniert, indem zwei Schlüssel zu Verfügung stehen. Eine Öffentlicher (Public Key) und Privater (Private Key). Der Public Key, wie der Name schon sagt, ist öffentlich zu Verfügung. Dieser wird benötigt um dir (Hälter des Private Keys) nachrichten zu senden.
