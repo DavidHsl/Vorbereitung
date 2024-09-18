@@ -9,7 +9,7 @@ tags:
 # 2024-09-06
 ## Themen
 - SQL
-- [[Netzwerke]]
+- [[ITS-1/Netzwerke]]
 	- IPv6 & IPv4
 	- VPN
 	- Firewall
@@ -22,7 +22,7 @@ tags:
 - Speicher
 	- Backup (Archive Bild)
 	- RAID / JBOD
-- [[Betriebsysteme]]
+- [[ITS-1/Betriebsysteme]]
 	- VMs (Hypervisors)
 	- Cloud
 - Serverdienste
