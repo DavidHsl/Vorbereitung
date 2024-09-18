@@ -64,5 +64,5 @@ AND k.PLZ LIKE '8%'
 ```
 
 ### Aufgabe 5 (10)
-- InfluxDB
+- Casandra
 - MangoDB
