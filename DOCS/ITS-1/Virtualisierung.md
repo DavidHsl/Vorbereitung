@@ -35,10 +35,4 @@
 - PaaS - Platform as a Service
 - SaaS - Software as a Service
 
-![[iaas-paas-saas-diagram5.1-1638x1046.png]]
-
-
-### Aufgaben
-**6**
-![[iaas-paas-saas-diagram5.1-1638x1046.png]]
-**7**
+![](../assets/iaas-paas-saas-diagram5.1-1638x1046.png)
