@@ -22,7 +22,7 @@ MAC --> erg(Mac erschaffen)
 *Teilnehmer 1 sendet Nachricht and Teilnehmer 2*
 ```mermaid
 sequenceDiagram
-Teilnehmer 1 -> Teilnehmer 2: Tauschen Public Keys aus
+Teilnehmer 1 ->> Teilnehmer 2: Tauschen Public Keys aus
 Teilnehmer 1 ->> Teilnehmer 2: Verschlüssele Nachricht mit Pub Key von T2 und hänge MAC dran
 ```
 ### Probleme
@@ -45,4 +45,13 @@ T 1 -> T 2: Austausch der Public Keys
 T 1 -> T 2: Genierer Symmetrischen Schlüssel
 T 1 ->> T 2: Verschlüsselt mit dem Pub Key von T2 einen Sym Schlüssel
 T 2 ->> T 1: Sende Nachricht mit Verschlüsselt mit Sym Schlüssel
+```
+## Digitales Zertifikat nach X.509
+```mermaid
+sequenceDiagram
+Client ->> Server: Session Request
+Server ->> Client: Sends X.509 Certificate with public Key
+Client --> Server: Checks Certificate with known Certificates Autorities (CA)
+Client ->> Server: Client generates Sym Key sends it Encrypted with Pub Key
+Client -> Server: Client and server communicate with Sym Key 
 ```
