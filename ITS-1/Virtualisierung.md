@@ -28,3 +28,9 @@
 - Gesundheitswesen
 - Call-Center
 
+
+## Cloud
+### Aufgaben
+**6**
+![[iaas-paas-saas-diagram5.1-1638x1046.png]]
+**7**
