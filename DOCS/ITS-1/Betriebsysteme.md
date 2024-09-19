@@ -15,10 +15,13 @@ Die Resourcenverwaltung beihaltet:
 - **Prozessorverwaltung**
   Diese kümmert sich das eine Applikation ein oder meher Kern/Threads kriegt für ein gewiese zeit
 - **Speicherverwaltung**
-  Kümmert sich das jeded Applikation genügend RAM kriegt und sie sicht nicht gegenseit das RAM klauen und überschreiben.
+  Kümmert sich das jede Applikation genügend Arbeitsspeicher kriegt und sie sich nicht gegenseit den Arbeitsspeicher klauen und überschreiben.
 
-### Resourcenkonflikt
-Der Resourcenkonflikt ist der Fall wenn zwei Applikation die selben Ressourcen haben will und daher sich entgegenstoßen.
+*Fun Fact: RAM bedeutet `Random Access Memory`, welches bedeutet das alle Speicher median wo man auf jeglichen punkt indem Speicher zugreifen kann. Das heißt das SSD Speicher laut der Definition RAM ist*
+
+
+### Ressourcen Konflikt
+Der Ressourcen Konflikt ist der Fall wenn zwei Applikation die selben Ressourcen haben will und daher sich entgegenstoßen.
 
 # Schichten
 ![OS Schicheten](../assets/OS.png)
