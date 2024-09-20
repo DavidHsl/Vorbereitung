@@ -27,6 +27,27 @@
 	- Plannungstreffen, bei dem die Aufgaben für die nächsten Sprint festgelegt werden (Zerlegung eines Inkrementes in viele kleine Teilaufgaben)
 	- Zu Beginn jedes Sprints
 - **Daily Scrum**
+	- Tagtäglich Meetings (möglichst kurz gehalten)
+	- Fortschritt der Aufgaben, was wurde Erledigt, was steht als nächstes an, was könnte an Probleme auftreten (ist aufgetreten)
+- **Sprint Review**
+	- Treffen am ended eines Sprints
+	- Rückblick auf den letzten Sprint, vorstellung der Zwischen Ergebnisse (fachliches Feedback)
+	- Ergebnis wird dem P.O. vorgestellt
+- **Sprint Retrospektive**
+	- Treffen am Ende eines Sprints
+	- Wird vom Scrum Master geleitet
+	- Feedback zu Zusammenarbeit, Methoden, Kritik and Kollegen
+- **Product Backlog**
+	- Liste aller Aufgaben, die inem Projet abzuarbeiten sind
+	- Aufgaben werden priorisiert und mit Arbeitsaufwand geschätzt
+- **Sprint Backlog**
+	- List aller Aufgaben, die im Sprint zu erledigen sind.
+	- Aufteilung in "To-Do,", "Doing", "Done" (Qualitätssicherung)
+	- Hilft bei der Übersichtlichkeit und Transperent der zu erledigen Aufgaben
+- **Inkrement**
+	- Überbegriff für Zwischenprodukt
+	- Zwischenprodukt sollte für sich funktionsfähig sein
+	- 
 
 - **Sprint**
   Der Sprint ist ein Arbeitsblock worin eine im Planning definierten Aufgaben erledigt werden. 
