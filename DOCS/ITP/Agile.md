@@ -6,6 +6,7 @@
 4. Reagieren bei Veränderung statt Plan stur zu verfolgen
 
 ## SCRUM
+![](../assets/scrum.png)
 ### Rollen
 - **Produkt Owner**
 	- Person, die für die Priorisierung der Aufgaben (im Vorhinein) zuständig ist (verantwortlich für Product Backlog)
@@ -37,6 +38,7 @@
 	- Treffen am Ende eines Sprints
 	- Wird vom Scrum Master geleitet
 	- Feedback zu Zusammenarbeit, Methoden, Kritik and Kollegen
+### Artefakte
 - **Product Backlog**
 	- Liste aller Aufgaben, die inem Projet abzuarbeiten sind
 	- Aufgaben werden priorisiert und mit Arbeitsaufwand geschätzt
@@ -47,9 +49,3 @@
 - **Inkrement**
 	- Überbegriff für Zwischenprodukt
 	- Zwischenprodukt sollte für sich funktionsfähig sein
-	- 
-
-- **Sprint**
-  Der Sprint ist ein Arbeitsblock worin eine im Planning definierten Aufgaben erledigt werden. 
-- **Sprint Planning**
-  Das Sprint Planning worin die Tickets nach geschätzter Dauer bewertet werden und für den Nächsten Block definiert wird
