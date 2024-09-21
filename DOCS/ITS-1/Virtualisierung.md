@@ -5,13 +5,13 @@
 
 ### Merkmale
 - Zentrale Verwaltung
-  Alle Virtuelle Desktops werden zentrale auf Servern in einem Rechenzenrum verwaltet.
+  Alle Virtuelle Desktops werden zentrale auf Servern in einem Rechenzentrum verwaltet.
 - Flexibilität & Mobilität
   Nutzer können von verschiedenen Geräten auf ihre Machinen zugreifen
 - Sicherheit
   Daten und Anwendungen verweilen im Rechenzentrum
 - Ressourcennutzung
-  Die Ressourcen werden Effizenter verwendet
+  Die Ressourcen werden Effizienter verwendet
 
 ### Vorteile
 - Einacher Verwaltbar
@@ -31,7 +31,7 @@
 
 ## Cloud
 ### Cloud Typen
-- IaaS - Infrastrukture as a Service
+- IaaS - Infrastruktur as a Service
 - PaaS - Platform as a Service
 - SaaS - Software as a Service
 
