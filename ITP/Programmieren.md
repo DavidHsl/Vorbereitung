@@ -3,6 +3,9 @@ tags:
   - Abschluss
   - BS
   - Programmieren
+  - AP
+  - ITP
+  - java
 ---
 # Java (Programmier Code)
 ## 3 Arten der Schleifen

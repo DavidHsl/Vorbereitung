@@ -1,3 +1,11 @@
+---
+tags:
+  - its-1
+  - Virtualisierung
+  - VDI
+  - Cloud
+---
+
 # Virtualisierung 
 ![[Virtualsierung.png]]
 ## Was ist eine VDI?

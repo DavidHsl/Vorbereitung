@@ -4,9 +4,10 @@ tags:
   - its-1
   - betriebsystem
   - os
+  - kernel
 ---
 Unter einem Betriebssystem versteht man eine Computer mit dem Kernal und allen wichtigen Systemkomponenten.
-# Kernal
+# Kernel
 
 ## Resourcenverwalltung
 Resourcenverwaltung ist zuständig die richten Resourcen and die richte programme zu geben, und verhiindern das Applikation zuviel oder die selben Resourcen wie eine ander, zu beziehen.
