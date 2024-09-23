@@ -44,6 +44,7 @@ tags:
 - Verschlüsselung
 - Ergonomie
 - [[DSGVO]]
+- 4-Ohren-Modell
 
 
 ## Prio
